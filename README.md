@@ -50,7 +50,7 @@ I'm a Data Engineer with hands-on experience building **ETL/ELT pipelines**, **d
 
 End-to-end ETL pipeline that turns **445K+ raw flight records into a 6,324-row analytics-ready dataset** (~98% volume reduction) in about 4–5 minutes. Includes a star-schema warehouse (`dim_airline`, `dim_airport`, `dim_month`, `dim_date`), reusable SQL views and 4 Power BI dashboards covering overview, airline performance, route analysis and delay analysis.
 
-### 🔹 Bank Loan Default Risk Analysis
+### 🔹 [Bank Loan Default Risk Analysis](https://github.com/Rider-04/bank-loan-default-risk-analysis)
 `Python` `Pandas` `NumPy` `Matplotlib` `Seaborn`
 
 Preprocessing and feature-engineering workflow on a 55K-row, 122-column loan dataset: null analysis, outlier handling, type fixes and 10+ engineered features (income segments, credit ratios, EMI burden, loan affordability). Analysis surfaced higher default risk in low-income, unstable-employment and high-EMI segments.
@@ -68,9 +68,9 @@ Consolidated 10 contest leaderboards (UNION ALL) across 5+ datasets into a dimen
 
 ## 🏆 Certifications
 
-- AWS Academy – Data Engineering Badge (Dec 2025)
+- [AWS Academy – Data Engineering Badge](https://www.credly.com/badges/366a4dad-dc8b-4ae0-b0b7-16354cbb6d8a/public_url) (Dec 2025)
 - Wipro TalentNext – Database Solutions Expert (Oct 2024)
-- HackerRank – SQL 5-Star (Gold) Badge
+- [HackerRank – SQL 5-Star (Gold) Badge](https://www.hackerrank.com/profile/0103AD221134)
 
 ---
 
@@ -87,6 +87,7 @@ Consolidated 10 contest leaderboards (UNION ALL) across 5+ datasets into a dimen
 Open to **Data Engineer**, **ETL / Data Pipeline** and **Analytics Engineering** roles.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/parthsharma-dsxpert)
+[![GitHub](https://img.shields.io/badge/GitHub-Rider--04-181717?logo=github&logoColor=white)](https://github.com/Rider-04)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sharmaparthsharma04@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live%20Website-black?logo=vercel&logoColor=white)](https://parth-portfolio-virid.vercel.app)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@parth_sharma_04)
